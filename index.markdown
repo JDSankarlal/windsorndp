@@ -6,5 +6,22 @@ layout: splash
 header:
     overlay_color: "#222"
     overlay_filter: "0.4"
-    overlay_image: "{{ site.baseurl }}/assets/1920x400.svg"
+    overlay_image: "/assets/1920x400.svg"
+
+feature_row:
+    - image_path: "/assets/600x400.svg"
+      alt: "Placeholder image 1"
+      title: "Join the Discord"
+      excerpt: "This is sample content"
+    - image_path: "/assets/600x400.svg"
+      alt: "Placeholder image 2"
+      title: "Volunteer with Us"
+      excerpt: "This is sample content"
+    - image_path: "/assets/600x400.svg"
+      alt: "Placeholder image 3"
+      title: "Meet your EDA"
+      excerpt: "This is sample content"
+    
 ---
+
+{% include feature_row %}
