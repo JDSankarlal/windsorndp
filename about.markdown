@@ -24,7 +24,7 @@ feature_row2:
       excerpt: "This is sample content"
     - image_path: "/assets/600x400.svg"
       alt: "Placeholder image 2"
-      title: "Windsor - Tecumseh"
+      title: "Windsor - Tecumseh - Lakeshore"
       excerpt: "This is sample content"
     - image_path: "/assets/600x400.svg"
       alt: "Placeholder image 3"
@@ -37,7 +37,5 @@ feature_row2:
 
 {% include feature_row %}
 
-
 ## Electoral District Associations - Provincial
-
 {% include feature_row id = "feature_row2" %}
