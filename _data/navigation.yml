@@ -1,0 +1,10 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Events"
+    url: "/events"
+  - title: "Our Team"
+    url: "/our-team"
+

@@ -9,3 +9,12 @@ $text-color: #58595B;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.greedy-nav a{
+        color: #F58220;
+        font-weight: bold;
+    }
+.page__footer{
+    color: white;
+}
+

@@ -21,7 +21,7 @@ feature_row:
       alt: "Placeholder image 3"
       title: "Meet your EDA"
       excerpt: "This is sample content"
-    
+  
 ---
 
 {% include feature_row %}
