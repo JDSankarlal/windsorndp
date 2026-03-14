@@ -3,6 +3,9 @@ title: About
 layout: splash
 permalink: /about/
 
+header:
+
+
 feature_row:
     - image_path: "/assets/600x400.svg"
       alt: "Placeholder image 1"
